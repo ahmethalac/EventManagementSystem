@@ -1,0 +1,25 @@
+.login{
+    height: 100%;
+    display: flex;
+}
+
+.card-container.card {
+    padding: 40px 40px;
+    text-align: center;
+    background-color: #95BBDF;
+}
+
+.card {
+    width: 400px;
+    margin: auto;
+}
+
+.profile-img-card {
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}

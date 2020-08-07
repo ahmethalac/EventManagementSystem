@@ -1,0 +1,42 @@
+.react-calendar{
+    width: 100% !important;
+    border-radius: 5px;
+}
+
+.p-fluid .p-inputnumber .p-inputnumber-input{
+    padding: 8.8px 14px;
+    border: 2px solid;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: 0.00938em;
+    box-shadow: none !important;
+}
+
+.p-fluid .p-inputnumber .p-inputnumber-input:valid{
+    border-color: green;
+}
+
+.p-fluid .p-inputnumber .p-inputnumber-input:invalid{
+    border-color: red;
+}
+
+.p-chips-input-token{
+    padding: 14.6px 5px !important;
+}
+
+.MuiDialogActions-root{
+    justify-content: space-between !important;
+    height: 54px;
+    overflow: hidden;
+}
+
+.p-messages{
+    margin: 0px 0px 0px 15px !important;
+}
+
+.p-messages-wrapper{
+    padding: 5px !important;
+}
